@@ -3,7 +3,7 @@
 **Seattle Collision Map** - Visualizing Car Crashes in Seattle for Better Road Safety.
 
 ### Application URL
-https://tralee10.github.io/Seattle_Collision_Project/index.html
+https://tralee10.github.io/Seattle_Collision_Map/index.html
 
 ## Project Overview
 This interactive web map provides a detailed visualization of car crashes in Seattle, leveraging publicly available datasets to present a comprehensive overview of traffic incidents. By offering insights into crash trends, severity, and contributing factors, the project aims to improve public awareness and assist in data-driven urban planning decisions.
@@ -149,9 +149,3 @@ Imagery provided by:
 * ChatGPT was used to create the favicon.
 
 AI tools were not used to generate code to create the web map, web page, README file, or any textual content on the web pages.
-
-
-## Contributors
-
-Travis Lee, Jeremy Tan, Billy To, Jerry Xhu
-
